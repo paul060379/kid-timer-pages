@@ -1,6 +1,6 @@
 # Kid Timer
 
-Kid Timer 是給小朋友使用的視覺化倒數計時器。選擇遊戲或看電視、設定時間，再用逐漸下降的水位理解還剩多久。
+Kid Timer 是給小朋友使用的視覺化倒數計時器。設定時間後，用逐漸下降的水位理解還剩多久。
 
 立即使用：[Kid Timer](https://paul060379.github.io/kid-timer-pages/)
 
